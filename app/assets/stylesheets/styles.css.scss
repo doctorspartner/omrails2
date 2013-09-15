@@ -1,0 +1,8 @@
+$navbarBackgroundHighlight: lightBlue;
+$navbarBackground: white;
+$btnBackgroundHighlight: lightBlue;
+
+@import 'bootstrap';
+body {padding-top: 50px;}
+@import 'bootstrap-responsive';
+.footer {margin-top: 50px; color: $grayLight;}
